@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Abbasnejad
-- 👀 I’m interested in Flutter and Blockchain tech
-- 🌱 I’m currently learning Solidity and Flutter
+- 👀 I’m interested in Flutter & React NextJS and Blockchain tech
+- 🌱 I’m currently learning Solidity and Rust
 - 📫 How to reach me :
 Email : m.abbasnezhad.80@gmail.com
 
