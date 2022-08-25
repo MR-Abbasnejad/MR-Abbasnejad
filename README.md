@@ -4,8 +4,8 @@
 - 📫 How to reach me :
 
 ### [Email](m.abbasnezhad.80@gmail.com)
-### [Linkedin](linkedin.com/in/mohammad-abbasnezhad/)
-### [Twitter](twitter.com/Mr_Abbasnejad)
+### [Linkedin](https://www.linkedin.com/in/mohammad-abbasnezhad/)
+### [Twitter](https://twitter.com/Mr_Abbasnejad)
 ### [Portfolio](https://mohammad-abbasnejad-portfolio.netlify.app/)
 
 <!---
