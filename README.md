@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 ### Reach out to me
 
 <!--- <a href="https://twitter.com/writesatweet"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> --->
-<a href="https://github.com/MR-Abbasnejad"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in//mohammad-abbasnezhad/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
-
-### [Twitter](https://twitter.com/Mr_Abbasnejad)
-### [Portfolio](https://mohammad-abbasnejad-portfolio.netlify.app/)
+<a href="https://github.com/MR-Abbasnejad"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> 
+<a href="https://www.linkedin.com/in//mohammad-abbasnezhad/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/Mr_Abbasnejad"><img src="https://i.ibb.co/Kx2GSrT/twitter.png" width="32px" height="32px"></a>
